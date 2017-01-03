@@ -1,6 +1,6 @@
 # Arduino Tweeter
 
-A command may be sent through a Twitter account to control LED lighting, using "/led (command)". 
+A command may be sent through a Twitter account to remotely control LED lighting, using "/led (command)". 
 Python is used to interface between a Twitter API, Tweepy, and serial communication. 
 Only works for a user enabling the application.
 
