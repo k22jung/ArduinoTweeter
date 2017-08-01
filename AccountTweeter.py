@@ -1,6 +1,6 @@
 '''
 Kenneth Jung
-2B Mechatronics Engineering
+Mechatronics Engineering
 https://github.com/k22jung
 '''
 
